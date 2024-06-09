@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PBOB2-2023FixUkuran1280x720\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01468386-B00C-4B1E-A3E7-AC4EBB2F3C90}|PBOB2_2023\\PBOB2_2023.csproj|d:\\pbob2-2023fixukuran1280x720\\pbob2_2023\\app\\model\\m_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01468386-B00C-4B1E-A3E7-AC4EBB2F3C90}|PBOB2_2023\\PBOB2_2023.csproj|solutionrelative:pbob2_2023\\app\\model\\m_mahasiswa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01468386-B00C-4B1E-A3E7-AC4EBB2F3C90}|PBOB2_2023\\PBOB2_2023.csproj|d:\\pbob2-2023fixukuran1280x720\\pbob2_2023\\app\\model\\m_himpunan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01468386-B00C-4B1E-A3E7-AC4EBB2F3C90}|PBOB2_2023\\PBOB2_2023.csproj|solutionrelative:pbob2_2023\\app\\model\\m_himpunan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01468386-B00C-4B1E-A3E7-AC4EBB2F3C90}|PBOB2_2023\\PBOB2_2023.csproj|d:\\pbob2-2023fixukuran1280x720\\pbob2_2023\\app\\model\\m_dosen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01468386-B00C-4B1E-A3E7-AC4EBB2F3C90}|PBOB2_2023\\PBOB2_2023.csproj|solutionrelative:pbob2_2023\\app\\model\\m_dosen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01468386-B00C-4B1E-A3E7-AC4EBB2F3C90}|PBOB2_2023\\PBOB2_2023.csproj|d:\\pbob2-2023fixukuran1280x720\\pbob2_2023\\app\\model\\m_dosenminat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01468386-B00C-4B1E-A3E7-AC4EBB2F3C90}|PBOB2_2023\\PBOB2_2023.csproj|solutionrelative:pbob2_2023\\app\\model\\m_dosenminat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01468386-B00C-4B1E-A3E7-AC4EBB2F3C90}|PBOB2_2023\\PBOB2_2023.csproj|D:\\PBOB2-2023FixUkuran1280x720\\pbob2_2023\\app\\view\\v_administrasi data profil dosen operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01468386-B00C-4B1E-A3E7-AC4EBB2F3C90}|PBOB2_2023\\PBOB2_2023.csproj|solutionrelative:pbob2_2023\\app\\view\\v_administrasi data profil dosen operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01468386-B00C-4B1E-A3E7-AC4EBB2F3C90}|PBOB2_2023\\PBOB2_2023.csproj|D:\\PBOB2-2023FixUkuran1280x720\\pbob2_2023\\app\\context\\dosencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01468386-B00C-4B1E-A3E7-AC4EBB2F3C90}|PBOB2_2023\\PBOB2_2023.csproj|solutionrelative:pbob2_2023\\app\\context\\dosencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01468386-B00C-4B1E-A3E7-AC4EBB2F3C90}|PBOB2_2023\\PBOB2_2023.csproj|D:\\PBOB2-2023FixUkuran1280x720\\pbob2_2023\\app\\view\\v_jadwal sidang operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01468386-B00C-4B1E-A3E7-AC4EBB2F3C90}|PBOB2_2023\\PBOB2_2023.csproj|solutionrelative:pbob2_2023\\app\\view\\v_jadwal sidang operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01468386-B00C-4B1E-A3E7-AC4EBB2F3C90}|PBOB2_2023\\PBOB2_2023.csproj|D:\\PBOB2-2023FixUkuran1280x720\\pbob2_2023\\app\\context\\penjadwalansidangskripsicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01468386-B00C-4B1E-A3E7-AC4EBB2F3C90}|PBOB2_2023\\PBOB2_2023.csproj|solutionrelative:pbob2_2023\\app\\context\\penjadwalansidangskripsicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01468386-B00C-4B1E-A3E7-AC4EBB2F3C90}|PBOB2_2023\\PBOB2_2023.csproj|D:\\PBOB2-2023FixUkuran1280x720\\pbob2_2023\\app\\view\\v_jadwal sidang operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01468386-B00C-4B1E-A3E7-AC4EBB2F3C90}|PBOB2_2023\\PBOB2_2023.csproj|solutionrelative:pbob2_2023\\app\\view\\v_jadwal sidang operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01468386-B00C-4B1E-A3E7-AC4EBB2F3C90}|PBOB2_2023\\PBOB2_2023.csproj|D:\\PBOB2-2023FixUkuran1280x720\\pbob2_2023\\app\\model\\m_penjadwalansidangskripsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01468386-B00C-4B1E-A3E7-AC4EBB2F3C90}|PBOB2_2023\\PBOB2_2023.csproj|solutionrelative:pbob2_2023\\app\\model\\m_penjadwalansidangskripsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "M_Mahasiswa.cs",
+              "DocumentMoniker": "D:\\PBOB2-2023FixUkuran1280x720\\PBOB2_2023\\App\\Model\\M_Mahasiswa.cs",
+              "RelativeDocumentMoniker": "PBOB2_2023\\App\\Model\\M_Mahasiswa.cs",
+              "ToolTip": "D:\\PBOB2-2023FixUkuran1280x720\\PBOB2_2023\\App\\Model\\M_Mahasiswa.cs",
+              "RelativeToolTip": "PBOB2_2023\\App\\Model\\M_Mahasiswa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:07:06.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "M_Himpunan.cs",
+              "DocumentMoniker": "D:\\PBOB2-2023FixUkuran1280x720\\PBOB2_2023\\App\\Model\\M_Himpunan.cs",
+              "RelativeDocumentMoniker": "PBOB2_2023\\App\\Model\\M_Himpunan.cs",
+              "ToolTip": "D:\\PBOB2-2023FixUkuran1280x720\\PBOB2_2023\\App\\Model\\M_Himpunan.cs",
+              "RelativeToolTip": "PBOB2_2023\\App\\Model\\M_Himpunan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:07:00.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "M_Dosen.cs",
+              "DocumentMoniker": "D:\\PBOB2-2023FixUkuran1280x720\\PBOB2_2023\\App\\Model\\M_Dosen.cs",
+              "RelativeDocumentMoniker": "PBOB2_2023\\App\\Model\\M_Dosen.cs",
+              "ToolTip": "D:\\PBOB2-2023FixUkuran1280x720\\PBOB2_2023\\App\\Model\\M_Dosen.cs",
+              "RelativeToolTip": "PBOB2_2023\\App\\Model\\M_Dosen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T19:06:42.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "M_DosenMinat.cs",
+              "DocumentMoniker": "D:\\PBOB2-2023FixUkuran1280x720\\PBOB2_2023\\App\\Model\\M_DosenMinat.cs",
+              "RelativeDocumentMoniker": "PBOB2_2023\\App\\Model\\M_DosenMinat.cs",
+              "ToolTip": "D:\\PBOB2-2023FixUkuran1280x720\\PBOB2_2023\\App\\Model\\M_DosenMinat.cs",
+              "RelativeToolTip": "PBOB2_2023\\App\\Model\\M_DosenMinat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T05:07:00.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "v_Administrasi Data Profil Dosen Operator.cs [Design]",
+              "DocumentMoniker": "D:\\PBOB2-2023FixUkuran1280x720\\PBOB2_2023\\App\\View\\v_Administrasi Data Profil Dosen Operator.cs",
+              "RelativeDocumentMoniker": "PBOB2_2023\\App\\View\\v_Administrasi Data Profil Dosen Operator.cs",
+              "ToolTip": "D:\\PBOB2-2023FixUkuran1280x720\\PBOB2_2023\\App\\View\\v_Administrasi Data Profil Dosen Operator.cs [Design]",
+              "RelativeToolTip": "PBOB2_2023\\App\\View\\v_Administrasi Data Profil Dosen Operator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T05:06:54.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DosenContext.cs",
+              "DocumentMoniker": "D:\\PBOB2-2023FixUkuran1280x720\\PBOB2_2023\\App\\Context\\DosenContext.cs",
+              "RelativeDocumentMoniker": "PBOB2_2023\\App\\Context\\DosenContext.cs",
+              "ToolTip": "D:\\PBOB2-2023FixUkuran1280x720\\PBOB2_2023\\App\\Context\\DosenContext.cs",
+              "RelativeToolTip": "PBOB2_2023\\App\\Context\\DosenContext.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T05:05:53.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "M_PenjadwalanSidangSkripsi.cs",
+              "DocumentMoniker": "D:\\PBOB2-2023FixUkuran1280x720\\PBOB2_2023\\App\\Model\\M_PenjadwalanSidangSkripsi.cs",
+              "RelativeDocumentMoniker": "PBOB2_2023\\App\\Model\\M_PenjadwalanSidangSkripsi.cs",
+              "ToolTip": "D:\\PBOB2-2023FixUkuran1280x720\\PBOB2_2023\\App\\Model\\M_PenjadwalanSidangSkripsi.cs",
+              "RelativeToolTip": "PBOB2_2023\\App\\Model\\M_PenjadwalanSidangSkripsi.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-06T08:29:13.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PenjadwalanSidangSkripsiContext.cs",
+              "DocumentMoniker": "D:\\PBOB2-2023FixUkuran1280x720\\PBOB2_2023\\App\\Context\\PenjadwalanSidangSkripsiContext.cs",
+              "RelativeDocumentMoniker": "PBOB2_2023\\App\\Context\\PenjadwalanSidangSkripsiContext.cs",
+              "ToolTip": "D:\\PBOB2-2023FixUkuran1280x720\\PBOB2_2023\\App\\Context\\PenjadwalanSidangSkripsiContext.cs",
+              "RelativeToolTip": "PBOB2_2023\\App\\Context\\PenjadwalanSidangSkripsiContext.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAcwGAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-06T08:28:06.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "v_Jadwal Sidang Operator.cs",
+              "DocumentMoniker": "D:\\PBOB2-2023FixUkuran1280x720\\PBOB2_2023\\App\\View\\v_Jadwal Sidang Operator.cs",
+              "RelativeDocumentMoniker": "PBOB2_2023\\App\\View\\v_Jadwal Sidang Operator.cs",
+              "ToolTip": "D:\\PBOB2-2023FixUkuran1280x720\\PBOB2_2023\\App\\View\\v_Jadwal Sidang Operator.cs",
+              "RelativeToolTip": "PBOB2_2023\\App\\View\\v_Jadwal Sidang Operator.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAIwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-06T08:21:07.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "v_Jadwal Sidang Operator.cs [Design]",
+              "DocumentMoniker": "D:\\PBOB2-2023FixUkuran1280x720\\PBOB2_2023\\App\\View\\v_Jadwal Sidang Operator.cs",
+              "RelativeDocumentMoniker": "PBOB2_2023\\App\\View\\v_Jadwal Sidang Operator.cs",
+              "ToolTip": "D:\\PBOB2-2023FixUkuran1280x720\\PBOB2_2023\\App\\View\\v_Jadwal Sidang Operator.cs [Design]",
+              "RelativeToolTip": "PBOB2_2023\\App\\View\\v_Jadwal Sidang Operator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-12-06T08:20:35.512Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
